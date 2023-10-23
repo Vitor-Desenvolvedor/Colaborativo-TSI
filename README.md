@@ -1,2 +1,2 @@
 # Colaborativo-TSI
-Teste - Criação de repositório remoto
+*Teste - Criação de repositório remoto
